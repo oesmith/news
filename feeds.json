@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "name": "index",
+      "title": "Blogs",
+      "urls": [
+        "https://daringfireball.net/feeds/main",
+        "https://blog.codinghorror.com/rss/",
+        "https://www.caseyliss.com/rss",
+        "https://marco.org/rss",
+        "https://feeds.feedburner.com/ProbablyOverthinkingIt",
+        "https://randsinrepose.com/feed/",
+        "https://feeds.feedburner.com/motherjones/BlogsAndArticles",
+        "https://danluu.com/atom.xml",
+        "https://rachelbythebay.com/w/atom.xml",
+        "https://jvns.ca/atom.xml",
+        "https://blog.jessfraz.com/index.xml",
+        "https://www.martinfowler.com/feed.atom",
+        "https://blog.acolyer.org/feed/",
+        "https://dave.cheney.net/feed",
+        "https://www.allthingsdistributed.com/atom.xml",
+        "https://increment.com/feed.xml",
+        "https://www.macsparky.com/feed/",
+        "https://feedpress.me/512pixels",
+        "https://www.the-tls.co.uk/categories/regular-features/mary-beard-a-dons-life/feed/",
+        "https://medium.com/feed/@cramforce",
+        "https://medium.com/feed/@yonatanzunger",
+        "https://wilwheaton.net/feed/",
+        "https://hnblogs.substack.com/feed",
+        "https://changelog.com/feed",
+        "https://drewdevault.com/blog/index.xml",
+        "https://artemis.sh/feed.xml"
+      ]
+    },
+    {
+      "name": "tech",
+      "title": "Tech",
+      "urls": [
+        "https://feeds.arstechnica.com/arstechnica/index/",
+        "https://www.theverge.com/rss/index.xml",
+        "https://www.vox.com/rss/technology/index.xml",
+        "https://motherboard.vice.com/en_us/rss"
+      ]
+    },
+    {
+      "name": "news",
+      "title": "News",
+      "urls": [
+        "https://feeds.bbci.co.uk/news/england/wiltshire/rss.xml",
+        "https://www.theguardian.com/uk/rss"
+      ]
+    },
+    {
+      "name": "f1",
+      "title": "F1",
+      "urls": [
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml"
+      ]
+    }
+  ]
+}
